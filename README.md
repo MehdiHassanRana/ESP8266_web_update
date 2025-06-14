@@ -13,6 +13,7 @@ const char* password = "mypassword";
 #define CURRENT_FIRMWARE_VERSION "1.1.18"
 
 // URLs for version checking and firmware update (GitHub raw URLs)
+
 #define VERSION_URL "https://raw.githubusercontent.com/MehdiHassanRana/ESP8266_web_update/main/version.txt"
 
 #define FIRMWARE_URL "https://raw.githubusercontent.com/MehdiHassanRana/ESP8266_web_update/main/firmware.bin"
